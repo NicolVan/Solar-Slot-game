@@ -1,0 +1,11 @@
+
+button{
+    background-color: red;
+    color: red;
+    border-radius: 20px;
+}
+img{
+    width: auto;
+    height: 4cm;
+    transition: transform 2.5s ease-in-out;
+}
